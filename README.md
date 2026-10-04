@@ -1,5 +1,6 @@
 # Chessigma MCP server
 
+[![AgentHub 已收录：Chessigma](https://myagenthub.cn/badge/com.chessigma/chessigma)](https://myagenthub.cn/p/com.chessigma/chessigma)
 Chess tools for Claude, ChatGPT and any MCP client, from [Chessigma](https://www.chessigma.com): opening guides, the opening behind any moves, position and game facts, review links for Chess.com and Lichess games, the daily puzzle and Elo estimates. Read-only, no account, no sign-in.
 
 - **Server URL:** `https://www.chessigma.com/api/mcp` (Streamable HTTP, no authentication)
